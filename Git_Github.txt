@@ -10,3 +10,4 @@ bos bir repository olusturmus oluruz
 7- commit store(yani version olusturdugumuz yer) daki verionlarimizi gormek icin de git log --online komutunu kullaniriz
 8- Olusturmus oldugumuz versionu github'a gonderebilmek icin git push <github repository adresi> yada devamli kullanacagımız bir 
 repo ise git remote add origin <repo adresi>/git push -u master komutuyla github'a gonderebiliriz
+9-Github'a gönderdiğimiz kodlarıda başka bir çalışma ortamına çekebilmek için git pull <github repo adresi> yazarak çekebiliriz
