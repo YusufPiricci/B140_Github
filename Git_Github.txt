@@ -7,4 +7,6 @@ bos bir repository olusturmus oluruz
 4-git add . komutuyla working space'deki kodlarimizi stagingn area dedigimiz bekleme alanına tasırız
 5-git commit -m"version adi" kodunu yaxarak stage'deki kodlarimizdan version olusturmus oluruz.
 6-working space ve stage'deki kodlarimizin durumunu gormek icin git status komutunu kullaniriz
-7- commit store(yani version olusturdugumuz yer) daki verionlarimizi gormek icin de git log --online komutunu kullaniriz 
+7- commit store(yani version olusturdugumuz yer) daki verionlarimizi gormek icin de git log --online komutunu kullaniriz
+8- Olusturmus oldugumuz versionu github'a gonderebilmek icin git push <github repository adresi> yada devamli kullanacagımız bir 
+repo ise git remote add origin <repo adresi>/git push -u master komutuyla github'a gonderebiliriz
