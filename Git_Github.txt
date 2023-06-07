@@ -1,0 +1,5 @@
+--Local'imizde repo olusturabilmek icin
+1-Calisacagimiz klasoru secip yada yeni bir klasor olusturup, klasorun yolunu gosteren bolume cmd yazıp
+enter yapıp acmıs oludugumuz klasorun yolunda terminalimizi acmis oluruz
+2-Ve bu dizinde acilan terminal'e (git init) yazariz ve initialize empty git repository yazisini gordugumuzde bu calısma alanımızda
+bos bir repository olusturmus oluruz
