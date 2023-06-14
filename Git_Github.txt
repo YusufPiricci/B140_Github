@@ -13,4 +13,4 @@ repo ise 1 kerlik --> git remote add origin <repo adresi> sonra -->/git push -u 
 9-Github'a gönderdiğimiz kodlarıda başka bir çalışma ortamına çekebilmek için git pull <github repo adresi> yazarak çekebiliriz
 10-Localimizde iliskilendirdşigimiz adresi git remote -v komutuyla gorbiliriz. 
 11-Github tarafinda yaptigimiz bir degisiklik olursa adresi 1 kerelik tanimladigimiz icin sadece git pull yapmamiz yeterlidir
-Ayni sekilde adresi tanimlanidigimiz icin sadece git push komutu ile de kodlarimizi gonderebiliriz
+Ayni sekilde adresi tanimlanidigimiz icin sadece git push komutu ile de kodlarimizi gonderebiliriz.
